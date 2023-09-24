@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Namrata-45
+- 👋 Hi, I’m Namrata Lawand
 - 👀 I’m interested work as Java Developer 
 - 🌱 I’ve completed Bachelor of computer science
 - 💞️ I’m looking for job 
